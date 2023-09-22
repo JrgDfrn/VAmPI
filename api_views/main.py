@@ -13,7 +13,7 @@ def populate_db():
 #cambio 
 #segundo cambio
 #esato no tiene cambio
-#este camnbio no es nada
+#este camnbio no es nadakj
 def basic():
     print("ejemplo")
     response_text = '{ "message": "VAmPI the Vulnerable API", "help": "VAmPI is a vulnerable on purpose API. It was ' \
