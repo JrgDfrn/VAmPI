@@ -10,7 +10,7 @@ def populate_db():
     response_text = '{ "message": "Database populated." }'
     response = Response(response_text, 200, mimetype='application/json')
     return response
-
+#cambio 
 def basic():
     response_text = '{ "message": "VAmPI the Vulnerable API", "help": "VAmPI is a vulnerable on purpose API. It was ' \
                     'created in order to evaluate the efficiency of third party tools in identifying vulnerabilities ' \
